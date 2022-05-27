@@ -1,5 +1,4 @@
-# Unity Minecraft Clone
+# OpenCraft
+## The Free and Open Source mining and crafting game
 
-A very basic minecraft clone made in 24 hours
-
-[Here's the youtube video showing the development](https://youtu.be/Nj8gt_92c-M)
+OpenCraft is an open-source unity based Minecraft clone that aims to create a game with a similair level of quality and polish as Minecraft itself.
